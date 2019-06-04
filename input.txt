@@ -1,0 +1,21 @@
+5
+a a a 0 0
+1 1 1 a a a a
+3 3 3 3 3 3
+a 1 a 1 a 1 a 1 a 1 a 1
+denver rogue DarkElf 2 0
+21 5 2 blue dark blonde ChaoticNeoutral
+3 3 3 3 3 3
+Acrobatics 1 Animal 2 Handling 3 Arcana 4 Athletics 5 Deception 6
+trial berserk Ork 1 0
+21 5 2 blue dark blonde ChaoticNeoutral
+3 3 3 3 3 3
+Acrobatics 1 Animal 2 Handling 3 Arcana 4 Athletics 5 Deception 6
+c a c 0 0
+1 1 1 a a a a
+3 3 3 3 3 3
+a 1 a 1 a 1 a 1 a 1 a 1
+e a a 0 0
+1 1 1 a a a a
+1 1 1 1 1 1
+a 1 a 1 a 1 a 1 a 1 a 1
